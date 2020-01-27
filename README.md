@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/AllenMoore/SandBox/_apis/build/status/First-Java.CI?branchName=master)](https://dev.azure.com/AllenMoore/SandBox/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
